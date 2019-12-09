@@ -1,0 +1,7 @@
+.Jumbotron {
+  color: red !important;
+  background-image: url('https://static.pexels.com/photos/6468/animal-brown-horse.jpg');
+  background-size: 'cover';
+  padding: 60px;
+  height: 500px
+}
