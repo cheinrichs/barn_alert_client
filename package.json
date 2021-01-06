@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "bootstrap": "^3.4.1",
     "css-loader": "^0.28.11",
     "dotenv": "^4.0.0",
